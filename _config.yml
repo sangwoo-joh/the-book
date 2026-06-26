@@ -1,11 +1,11 @@
-title: The Book
+title: Work In Progress
 description: The Engineering Book
 email: work.sangwoo.joh@gmail.com
 author: Sangwoo Joh
 
-repo: "https://github.com/sangwoo-joh/the-book"
+repo: "https://github.com/sangwoo-joh/wip"
 github_user: "sangwoo-joh"
-github_repo: "the-book"
+github_repo: "wip"
 github_branch: "master"
 
 version_params:
